@@ -20,7 +20,7 @@ This project is a tool that assesses the strength of a password based on various
 1. *Clone the Repository:*
 
    bash
-   git clone https://github.com/anshraj468/PRODIGY_CS_03.git
+   git clone https://github.com/takshak8709/PRODIGY_CS_3.git
    cd PRODIGY_CS_03
    
 
